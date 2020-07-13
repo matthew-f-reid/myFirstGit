@@ -9,7 +9,7 @@ run instructions
 
 Week|Content
 -|-
-week01 | JS, node.js
-week02 | Version control with Git
-week03 | NodeJs as a Server
+week01 | Introduction to JavaScript and Nodejs
+week02 | Code Version Control with Git and GitHub
+week03 | NodeJS as a Server
 week04 | Angular
