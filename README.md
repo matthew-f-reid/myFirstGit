@@ -7,7 +7,9 @@ install instructions
 
 run instructions
 
-week01 - JS, node.js
-week02 - Version control with Git
-week03 - NodeJs as a Server
-week04 - Angular
+Week|Content
+-|-
+week01 | JS, node.js
+week02 | Version control with Git
+week03 | NodeJs as a Server
+week04 | Angular
